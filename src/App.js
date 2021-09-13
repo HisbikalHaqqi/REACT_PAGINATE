@@ -1,10 +1,10 @@
-import './App.css';
-import Comment from '../src/paginate-comment/Comment';
+import Home from "./Pages/Home";
 
 function App() {
 
   return (
-    <Comment/>
+    // <Comment/>
+    <Home/>
   );
 }
 
